@@ -2,7 +2,7 @@
 First repository here
 
 ## Plans:
--improvise
--adapt
--overcome
+- improvise
+- adapt
+- overcome
 
