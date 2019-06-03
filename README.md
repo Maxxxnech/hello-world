@@ -1,5 +1,5 @@
 # hello-world
-First repository on Git-Hub
+**First** repository on *GitHub*
 
 ## Plans:
 - improvise
