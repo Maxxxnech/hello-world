@@ -1,4 +1,2 @@
 print('welcome');
-print('stage 1')
-print('stage 2')
-print('stage 3')
+print('please enter your login');
