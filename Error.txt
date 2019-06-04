@@ -1,3 +1,1 @@
 print('error!');
-
-print('Ajax Error', xhr.status, xhr statusText);
