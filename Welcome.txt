@@ -1,2 +1,3 @@
 print('welcome');
 print('stage 1')
+print('stage 2')
