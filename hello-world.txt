@@ -1,5 +1,5 @@
-print('hello-world');
+print('hello-world;');
 
-print('hello net citizens!');
+print('hello net citizens;');
 
-print('Hello everybody!');
+print('Hello everybody;');
