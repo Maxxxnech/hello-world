@@ -1,1 +1,3 @@
 print('conflict_feature');
+
+print('conflictCode');
