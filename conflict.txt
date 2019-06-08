@@ -1,5 +1,12 @@
-print('conflict_main');
+
+
+print('conflict_emulation');
+
+print('conflictCode');
+
+
 
 print('conflictCode');
 
 print('conflictStatus');
+
